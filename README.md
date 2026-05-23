@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 I build backend systems that are designed to fail safely, not just function normally — with security baked into architecture, not added after the fact.
 
 My stack is Python, Rust, JavaScript, and Go. I work across backend APIs and services, blockchain-integrated systems where smart contracts are treated as backend components with adversarial trust assumptions, and LLM tooling integrated as real backend primitives — optimized for latency and concurrency, not demos.
@@ -7,10 +8,10 @@ Offensive security and networking aren't side interests. They directly shape how
 
 Current technical focus:
 
-→ Backend services with defined failure contracts and measurable behavior
-→ Smart contracts as adversarial environments — not trusted black boxes
-→ RAG pipelines and LLM tooling where they add real backend leverage (CodeLens — codebase-aware RAG with code-structure-preserving chunking and local LLM backend)
-→ Cloud infrastructure and DevOps as the next layer of end-to-end ownership
+- Backend services with defined failure contracts and measurable behavior  
+- Smart contracts as adversarial environments — not trusted black boxes  
+- RAG pipelines and LLM tooling where they add real backend leverage (CodeLens — codebase-aware RAG with code-structure-preserving chunking and local LLM backend) 
+- Cloud infrastructure and DevOps as the next layer of end-to-end ownership  
 
 Open to backend engineering, early platform, and security-adjacent roles where systems thinking, failure awareness, and depth across the stack are the baseline — not the differentiator.
 
