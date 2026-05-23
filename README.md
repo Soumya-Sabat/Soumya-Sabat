@@ -8,11 +8,8 @@ Offensive security and networking aren't side interests. They directly shape how
 Current technical focus:
 
 → Backend services with defined failure contracts and measurable behavior
-
 → Smart contracts as adversarial environments — not trusted black boxes
-
 → RAG pipelines and LLM tooling where they add real backend leverage (CodeLens — codebase-aware RAG with code-structure-preserving chunking and local LLM backend)
-
 → Cloud infrastructure and DevOps as the next layer of end-to-end ownership
 
 Open to backend engineering, early platform, and security-adjacent roles where systems thinking, failure awareness, and depth across the stack are the baseline — not the differentiator.
